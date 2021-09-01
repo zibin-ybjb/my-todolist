@@ -1,0 +1,28 @@
+// @import "normalize";
+.Header{
+    display: flex;
+    background: #232323;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}
+.header-item{
+    font-family: PingFangSC-Semibold, sans-serif;
+    color: #FFEDA3;
+    width: 80px;
+    height: 30px;
+    border-radius: 15px;
+    text-align: center;
+    line-height: 30px;
+    background: #2940D3;
+    margin: 0 6px;
+    text-decoration: none;
+}
+.com-icon{
+    width: 33px;
+    height: 33px;
+    border-radius: 50%;
+    position: absolute;
+    left: 60px;
+    top: 8px;
+}
